@@ -6,7 +6,7 @@
 <div align="left">
 <img align="right" height="270" width="280" src="Images/coding-boy.gif"> <br>
 
-I'm **Abbas Raza** an <b>AI Automation Engineer</b>, anda backend dev for mobile apps. I am currently a <b>final year student at COMSATS University Islamabad</b> with <b>1 year of experience</b> building practical automation, backend systems, and intelligent applications.
+I'm **Abbas Raza** an <b>AI Automation Engineer</b>, and a backend engineer for mobile apps. I am currently a <b>final year student at COMSATS University Islamabad</b> with <b>1 year of experience</b> building practical automation, backend systems, and intelligent applications.
 
 I enjoy working at the intersection of <b>AI automation</b>, <b>agentic AI</b>, <b>generative AI</b>, and <b>DevOps</b>. My goal is to build useful systems that reduce manual work, connect tools intelligently, and make technology feel more productive for real people.
 
