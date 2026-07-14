@@ -14,7 +14,7 @@ I enjoy working at the intersection of <b>AI automation</b>, <b>agentic AI</b>, 
 - Exploring <b>GenAI</b>, <b>DevOps</b>, emerging technologies, and open-source collaboration.
 - Open to collaborating on <b>open-source projects</b>, automation tools, AI-powered apps, and backend systems.
 - Ask me about <b>AI automation</b>, <b>backend development</b>, <b>app development</b>, emerging tech, books, and philosophy.
-- Fun fact: I enjoy my own company a lot, and I like thinking deeply about technology, ideas, and life.
+- Fun fact: I enjoy my own company a lot, then comes books and running.
 
 </div>
 
