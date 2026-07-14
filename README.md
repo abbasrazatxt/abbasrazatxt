@@ -10,8 +10,8 @@ I'm **Abbas Raza** an <b>AI Automation Engineer</b>, and a backend engineer for 
 
 I enjoy working at the intersection of <b>AI automation</b>, <b>agentic AI</b>, <b>generative AI</b>, and <b>DevOps</b>. My goal is to build useful systems that reduce manual work, connect tools intelligently, and make technology feel more productive for real people.
 
-- Currently exploring <b>agentic AI</b>, <b>AI automation workflows</b>, and modern backend systems.
-- Interested in <b>GenAI</b>, <b>DevOps</b>, emerging technologies, and open-source collaboration.
+- Working with <b>agentic AI</b>, <b>AI automation workflows</b>, and modern backend systems.
+- Exploring <b>GenAI</b>, <b>DevOps</b>, emerging technologies, and open-source collaboration.
 - Open to collaborating on <b>open-source projects</b>, automation tools, AI-powered apps, and backend systems.
 - Ask me about <b>AI automation</b>, <b>backend development</b>, <b>app development</b>, emerging tech, books, and philosophy.
 - Fun fact: I enjoy my own company a lot, and I like thinking deeply about technology, ideas, and life.
