@@ -26,7 +26,7 @@ I enjoy working at the intersection of <b>AI automation</b>, <b>agentic AI</b>, 
 
 <a href="https://www.linkedin.com/in/abbasrazatxt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://github.com/abbasrazatxt"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-<a href="https://medium.com/abbasrazatxt"><img src="https://img.icons8.com/fluent/48/000000/medium.png" alt="Medium"/></a>
+<a href="https://medium.com/@abbasrazatxt"><img src="https://img.icons8.com/fluent/48/000000/Medium.png" alt="Medium"/></a>
 
 
 </div>
